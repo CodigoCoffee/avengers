@@ -19,3 +19,4 @@
 * Antman
 * Jahel
 * Fernando
+* Nick Fury
