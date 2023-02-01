@@ -18,3 +18,5 @@
 * Wasp
 * Antman
 * Jahel
+* Fernando
+* Nick Fury
